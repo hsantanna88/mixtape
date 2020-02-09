@@ -4,12 +4,14 @@
 ## Overview
 
 This package provides the datasets used in the book [“Casual Inference:
-The Mixtape”](http://scunning.com/stata.html) by Scott Cunningham.
+The Mixtape”](http://scunning.com/stata.html) by Scott Cunningham. 
+
+Forked from Johnson Shuffle project.
 
 ## Installation
 
 ``` r
-devtools::install_github('johnson-shuffle/mixtape')
+devtools::install_github('hsantanna88/mixtape')
 ```
 
 ## Datasets
