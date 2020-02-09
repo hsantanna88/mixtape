@@ -6,7 +6,7 @@
 This package provides the datasets used in the book [“Casual Inference:
 The Mixtape”](http://scunning.com/stata.html) by Scott Cunningham. 
 
-Forked from Johnson Shuffle project.
+Forked from Jake Johnson project.
 
 ## Installation
 
